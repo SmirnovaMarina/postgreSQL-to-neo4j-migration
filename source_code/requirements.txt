@@ -1,0 +1,16 @@
+attrs==21.4.0
+cffi==1.14.6
+cryptography==3.4.8
+h11==0.13.0
+idna==3.3
+Jinja2==3.0.1
+MarkupSafe==2.0.1
+outcome==1.1.0
+packaging==21.0
+pycparser==2.20
+pyparsing==2.4.7
+PyYAML==5.4.1
+resolvelib==0.5.4
+six==1.16.0
+sniffio==1.2.0
+sortedcontainers==2.4.0
